@@ -7,7 +7,7 @@
 <br/>
 
 ```diff
-@@                  Transformando ideias em soluções robustas e escaláveis                  @@
+@@            Be where of the darkness            @@
 ```
 
 </div>
@@ -19,13 +19,11 @@
 ### `> Sobre mim`
 
 ```yaml
-localizacao: Brasil
-ocupacao: Backend Developer | Full Stack Engineer
+Backend Developer | Full Stack Engineer
 foco_atual: 
   - Arquiteturas distribuídas
   - Sistemas de alta disponibilidade
   - Cloud-native applications
-filosofia: "Código limpo é código que funciona e fácil de manter"
 ```
 
 <br clear="right"/>
