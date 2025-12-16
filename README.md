@@ -19,7 +19,6 @@
 ### `> Sobre mim`
 
 ```yaml
-nome: Paulo  # Altere para seu nome
 localizacao: Brasil
 ocupacao: Backend Developer | Full Stack Engineer
 foco_atual: 
