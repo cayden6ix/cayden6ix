@@ -9,10 +9,10 @@
 <div align="center">
   <blockquote>
     <br>
-    <i>"If the world chooses to become my enemy, I will fight like I always have."</i>
+    <i>"You never know how good you might have become unless you try."</i>
     <br>
     <br>
-    <b>— Shadow</b>
+    <b>— Mike Mentzer</b>
   </blockquote>
 </div>
 
