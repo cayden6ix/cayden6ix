@@ -60,16 +60,16 @@ foco_atual:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=ff6b6b&currStreakLabel=dc143c"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cayden6ix&theme=radical&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=ff6b6b&currStreakLabel=dc143c"/>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cayden6ix/cayden6ix/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulo6ix/cayden6ix/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cayden6ix/cayden6ix/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
