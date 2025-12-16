@@ -2,13 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=cayden6ix&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Cloud%20Architect%20|%20System%20Designer&descAlignY=55&descSize=18)
 
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+%F0%9F%9A%80;Architecting+Cloud+Solutions+%E2%98%81%EF%B8%8F;Mastering+Backend+Engineering+%F0%9F%94%A7;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
 
