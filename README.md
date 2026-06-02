@@ -6,7 +6,7 @@
 <!-- HEADER -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:E9DCC4,100:C9AE86&amp;height=210&amp;section=header&amp;text=Paulo%20Henrique%20Ghizi&amp;fontSize=46&amp;fontColor=4A4032&amp;fontAlignY=38&amp;desc=Backend%20%26%20Fullstack%20Developer%20%C2%B7%20AI-Augmented%20Engineering&amp;descSize=17&amp;descAlignY=60&amp;descColor=5C5347&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:E9DCC4,100:C9AE86&amp;height=210&amp;section=header&amp;text=Paulo%20Henrique%20Ghizi&amp;fontSize=46&amp;fontColor=4A4032&amp;fontAlignY=38&amp;desc=Backend%20and%20Fullstack%20Developer%20%C2%B7%20AI-Augmented%20Engineering&amp;descSize=17&amp;descAlignY=60&amp;descColor=5C5347&amp;animation=fadeIn"
     alt="Paulo Henrique Ghizi"
     width="100%"
   />
@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/cayden6ix">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=8C6E54&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+TypeScript;Clean+Architecture+%C2%B7+DDD+%C2%B7+Microservices;Process+automation+%26+RESTful+integrations;AI-augmented+engineering%2C+with+full+technical+control"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=8C6E54&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+TypeScript;Clean+Architecture+%C2%B7+DDD+%C2%B7+Microservices;Process+automation+and+RESTful+integrations;AI-augmented+engineering%2C+with+full+technical+control"
       alt="What I do"
     />
   </a>
