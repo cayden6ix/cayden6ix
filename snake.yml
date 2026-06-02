@@ -1,0 +1,40 @@
+# ──────────────────────────────────────────────────────────────
+# Contribution snake animation
+# Coloque este arquivo no repositório cayden6ix/cayden6ix em:
+#   .github/workflows/snake.yml
+# Ele gera os SVGs (snake.svg / snake-dark.svg) na branch "output",
+# que é exatamente de onde o README carrega a animação.
+# ──────────────────────────────────────────────────────────────
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # a cada 12h
+  workflow_dispatch:          # permite rodar manualmente em Actions
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
